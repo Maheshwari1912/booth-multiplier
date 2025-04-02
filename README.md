@@ -47,3 +47,11 @@ Efficient for Large Multiplications – Useful in high-speed DSP applications.
 Hardware Optimization – Reduces logic complexity in VLSI circuits.
 
 Power-Efficient – Saves switching power by skipping unnecessary operations.
+
+**simulation results:**
+![image](https://github.com/user-attachments/assets/2373f6b1-5016-49bc-ad02-10fa7860d488)
+
+**schematic:**
+![image](https://github.com/user-attachments/assets/9f5420e1-4239-4eba-a3e4-7b38c369438c)
+
+
