@@ -2,9 +2,9 @@ module booth_multiplier_4bit (
     input signed [3:0] A, B,
     output reg signed [7:0] P
 );
-    logic [7:0] Q, M, N;
-    logic Q_1;
-    logic [3:0] count;
+    reg [7:0] Q, M, N;
+    reg Q_1;
+    reg [3:0] count;
 
     always @(A or B) begin
         A=8'd0;
